@@ -1,12 +1,4 @@
-## HKUMed Lin Lab
-HKUMed Lin Lab is dedicated to advancing treatments for challenging orthopedic conditions—including limb deformities, nonunion fractures, and segmental bone defects—that affect millions of patients worldwide and place substantial burdens on families and healthcare systems.
-
-Our research bridges basic science and clinical application through cutting‑edge techniques like single‑cell RNA sequencing, lineage tracing, and advanced biomaterial engineering. We focus on four key areas:
-- mechanoresponsive stem and stromal cells in bone regeneration
-- immune regulation during healing
-- skeletal interoception and nerve‑bone communication
-- smart biomaterials for cartilage repair and osteoarthritis
-
+---
 layout: about
 title: about
 permalink: /
@@ -20,6 +12,15 @@ profile:
     <p>+852 717 9613</p>
     <p>Rm907, 9/F, Laboratory Block, 21 Sassoon Road, Pokfulam, Hong Kong </p>
     <p>Hong Kong SAR, China</p>
+---
+
+HKUMed Lin Lab is dedicated to advancing treatments for challenging orthopedic conditions—including limb deformities, nonunion fractures, and segmental bone defects—that affect millions of patients worldwide and place substantial burdens on families and healthcare systems.
+
+Our research bridges basic science and clinical application through cutting‑edge techniques like single‑cell RNA sequencing, lineage tracing, and advanced biomaterial engineering. We focus on four key areas:
+- mechanoresponsive stem and stromal cells in bone regeneration
+- immune regulation during healing
+- skeletal interoception and nerve‑bone communication
+- smart biomaterials for cartilage repair and osteoarthritis
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
