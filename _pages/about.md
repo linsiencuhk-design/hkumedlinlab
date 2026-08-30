@@ -1,4 +1,12 @@
----
+##HKUMed Lin Lab
+LinLab at HKUMed is dedicated to advancing treatments for challenging orthopedic conditions—including limb deformities, nonunion fractures, and segmental bone defects—that affect millions of patients worldwide and place substantial burdens on families and healthcare systems.
+
+Our research bridges basic science and clinical application through cutting-edge techniques like single-cell RNA sequencing, lineage tracing, and advanced biomaterial engineering. We focus on four key areas: 
+- mechanoresponsive stem and stromal cells in bone regeneration, 
+- immune regulation during healing, 
+- skeletal interoception and nerve-bone communication, and
+- smart biomaterials for cartilage repair and osteoarthritis.
+
 layout: about
 title: about
 permalink: /
