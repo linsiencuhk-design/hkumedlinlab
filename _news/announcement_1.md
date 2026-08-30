@@ -1,8 +1,4 @@
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
-related_posts: false
+date: 2025‑12‑01
+Congratulations on Dr. Xian Xie’s excellent work published in JACS.
 ---
-
-A simple inline announcement.
